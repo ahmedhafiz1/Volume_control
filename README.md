@@ -9,10 +9,10 @@ Step 1: Download and save this repository to your own computer.
 
 Step 2: Install all of the prerequisites.
 
-a. Using the command "pip install opencv-python," install openCV packages.
-b. Using the command "pip install numpy," install the numpy package.
-c. Using the command "pip install mediapipe," install the mediapipe package.
-d. Using the command "pip install pycaw," install the pycaw package.
+1. Using the command "pip install opencv-python," install openCV packages.
+2. Using the command "pip install numpy," install the numpy package.
+3. Using the command "pip install mediapipe," install the mediapipe package.
+4. Using the command "pip install pycaw," install the pycaw package.
 
 Note: You may need to wait 1-2 minutes for the application to start and function correctly.
 

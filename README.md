@@ -1,10 +1,10 @@
-#Gesture-based volume control system
+# Gesture-based volume control system
 In this project, we will learn how to alter the volume of a computer using Gesture Control. We'll start with hand tracking and then utilize hand landmarks to discover gestures with our hands to modify the loudness.
 
-#Features
+# Features
 Can alter the loudness of your computer based on your hand activity
 Real-time tracking of your hand
-#How should it be used?
+# How should it be used?
 Step 1: Download and save this repository to your own computer.
 
 Step 2: Install all of the prerequisites.
